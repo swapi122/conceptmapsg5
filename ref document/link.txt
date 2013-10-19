@@ -1,0 +1,8 @@
+http://www.mkyong.com/spring-mvc/spring-mvc-hello-world-example/
+
+http://projects.spring.io/spring-framework/
+
+http://www.springsource-vn.blogspot.com/2013/08/vong-oi-cua-bean-trong-spring.html
+
+link bao cao tieu luan:
+http://www.youtube.com/watch?v=anSpJtRp0SA&feature=youtu.be
